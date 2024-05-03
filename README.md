@@ -25,10 +25,11 @@ Oniyama is a sleek and intuitive anime streaming application built with Electron
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shuvadip-Ghosh/Oniyama/raw/master/windows-installer.exe">Download Windows</a>
-  <a href="https://github.com/Shuvadip-Ghosh/Oniyama/raw/master/linux-installer.deb">Download Linux</a>
+  <a href="https://github.com/Shuvadip-Ghosh/Oniyama/raw/master/windows-installer.exe">Download Windows</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Shuvadip-Ghosh/Oniyama/raw/master/linux-installer.deb">Download Linux</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Shuvadip-Ghosh/Oniyama/raw/master/macos-installer.dmg">Download macOS</a>
 </p>
+
 
 ## Usage
 
