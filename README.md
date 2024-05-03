@@ -19,15 +19,15 @@ Oniyama is a sleek and intuitive anime streaming application built with Electron
 ## Downloads
 
 <p align="center">
-  <img src="https://github.com/Shuvadip-Ghosh/Oniyama/blob/master/windows-logo.png?raw=true" alt="win-logo.png" style="width:20%" />
-  <img src="https://github.com/Shuvadip-Ghosh/Oniyama/blob/master/linux-logo.png?raw=true" alt="linux-logo.png" style="width:17%"/>
-  <img src="https://github.com/Shuvadip-Ghosh/Oniyama/blob/master/apple-logo.png?raw=true" alt="apple-logo.png" style="width:17%"/>
+  <img src="https://github.com/Shuvadip-Ghosh/Oniyama/blob/master/windows-logo.png?raw=true" alt="win-logo.png" style="width:20%;margin-right:4rem;"/>
+  <img src="https://github.com/Shuvadip-Ghosh/Oniyama/blob/master/linux-logo.png?raw=true" alt="linux-logo.png" style="width:17%;margin-right:4rem;"/>
+  <img src="https://github.com/Shuvadip-Ghosh/Oniyama/blob/master/apple-logo.png?raw=true" alt="apple-logo.png" style="width:17%;margin-right:4rem;"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shuvadip-Ghosh/Oniyama/raw/master/windows-installer.exe">Download Windows</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Shuvadip-Ghosh/Oniyama/raw/master/linux-installer.deb">Download Linux</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Shuvadip-Ghosh/Oniyama/raw/master/macos-installer.dmg">Download macOS</a>
+  <a href="https://github.com/Shuvadip-Ghosh/Oniyama/raw/master/windows-installer.exe" style=";margin-right:2rem;">Download Windows</a>
+  <a href="https://github.com/Shuvadip-Ghosh/Oniyama/raw/master/linux-installer.deb" style=";margin-right:2rem;">Download Linux</a>
+  <a href="https://github.com/Shuvadip-Ghosh/Oniyama/raw/master/macos-installer.dmg" style=";margin-right:2rem;">Download macOS</a>
 </p>
 
 
