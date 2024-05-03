@@ -26,8 +26,8 @@ Oniyama is a sleek and intuitive anime streaming application built with Electron
 
 <p align="center">
   <a href="https://github.com/Shuvadip-Ghosh/Oniyama/releases/latest/download/Oniyama-setup.exe">Download Windows</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="">Coming Soon</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="">Coming Soon</a>
+  <a href="javascript:void(0)">Coming Soon...</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="javascript:void(0)">Coming Soon...</a>
 </p>
 
 
