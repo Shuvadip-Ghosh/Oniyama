@@ -35,7 +35,7 @@ Oniyama is a sleek and intuitive anime streaming application built with Electron
 ## Usage
 
 1. Launch the Oniyama application after installation.
-2. Allow it to fetch data minimum 5 minutes. (Can be more depending on your internet connection)
+2. Allow it to fetch data minimum 5 minutes. (Can be more depending on your internet connection) (Please allow it to fetch all the data for the first time before using or you will have problems later.)
 3. Browse or search for your desired anime title.
 4. Click on the title to start streaming.
 5. Enjoy watching anime with Oniyama!
