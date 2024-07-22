@@ -42,7 +42,7 @@ Oniyama is a sleek and intuitive anime streaming application built with Electron
 
 ## Support
 
-For any questions, issues, or feature requests, please open an [issue](https://github.com/Shuvadip-Ghosh/oniyama/issues) on GitHub.
+For any questions, issues, or feature requests, please open an [issue](https://github.com/Shuvadip-Ghosh/oniyama/issues) on GitHub or drop an email at oniyamaofficial@gmail.com .
 
 ## License
 
