@@ -1,4 +1,3 @@
-<link rel="stylesheet" type="text/css" href="styles.css">
 <p align="center">
   <img src="https://github.com/Shuvadip-Ghosh/Oniyama/blob/master/logo.png?raw=true" alt="logo.png" />
 </p>
